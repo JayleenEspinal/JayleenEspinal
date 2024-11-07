@@ -1,4 +1,4 @@
-## 👋 Hello! I'm [Jayleen Espinal]
+## 👋 Hello! I'm Jayleen Espinal
 
 I'm a recent Computer Science graduate from Florida International University with a passion for building efficient and user-friendly software solutions. I have hands-on experience in web development and programming, and I'm constantly expanding my skills in software development and IT.
 
