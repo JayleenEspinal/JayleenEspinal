@@ -5,7 +5,7 @@ I'm a recent Computer Science graduate from Florida International University wit
 ### 🔧 Skills & Technologies
 - **Languages:** Java, JavaScript, Python, HTML/CSS
 - **Web Development:** Responsive Design, Frontend & Backend Development
-- **Tools & Frameworks:** Flask, django, SQL\
+- **Tools & Frameworks:** Flask, django, SQL
 - **Devops:** aws, docker
 - **Interest Areas:** Software Development, IT, and Cybersecurity Fundamentals
 
